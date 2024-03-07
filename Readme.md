@@ -22,11 +22,9 @@ Welcome to Wondrify, your gateway to enchanting destinations, mystical attractio
 
 ## Technologies Used
 
-- **Next.js:** A powerful React framework for building server-side rendered applications, providing a seamless and fast user experience.
-
-- **Tailwind CSS:** A utility-first CSS framework that makes designing and styling your application a breeze.
-
-- **Travel Advisor API:** Leveraging the Travel Advisor API to gather real-time information, reviews, and recommendations for a comprehensive travel experience.
+- **Next.js**
+- **Tailwind CSS** 
+- **Travel Advisor API** 
 
 ## Getting Started
 
