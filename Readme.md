@@ -23,14 +23,14 @@ Welcome to Wondrify, your gateway to enchanting destinations, mystical attractio
 ## Technologies Used
 
 - **Next.js**
-- **Tailwind CSS** 
-- **Travel Advisor API** 
+- **Tailwind CSS**
+- **Travel Advisor API**
 
 ## Getting Started
 
 To get started with Wondrify, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/wondrify.git`
+1. Clone the repository: `git clone https://github.com/jatinkumarverma/wondrify.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
