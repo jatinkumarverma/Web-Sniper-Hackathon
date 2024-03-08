@@ -22,9 +22,9 @@ const Home: NextPage = () => {
       <Header />
       <div className="flex flex-col items-center justify-center hero-search bg-[url('/bg-api.webp')] bg-cover bg-center backdrop-brightness-50 gap-y-6 relative">
         <div className="flex flex-col gap-y-4">
-          <h1 className="text-4xl font-bold text-gray-200">Plan your trip</h1>
+          <h1 className="text-4xl font-bold text-gray-200">Plan your Trip</h1>
           <p className="text-gray-200 max-w-sm">
-            The india&apos;s biggest travel community in 2024 Powered by Websniper.
+            India&apos;s biggest travel community in 2024 Powered by WebSniper.
   
           </p>
           <form onSubmit={handleSubmit}>
@@ -47,7 +47,7 @@ const Home: NextPage = () => {
         </div>
         <div className="absolute bottom-0 w-full flex justify-between items-center min-h-[3.5rem] box-border px-6 lmd:px-14 lg:px-24 2xl:px-16">
           <p className="text-gray-200 text-xs">
-            Photo <span className="text-gray-400">by</span> Andrew tate
+            Photo <span className="text-gray-400">by</span> Mallika Singh
           </p>
           <p className="text-gray-400 text-xs">
             Read more about the{" "}
