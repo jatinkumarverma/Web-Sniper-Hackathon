@@ -24,12 +24,7 @@ const Footer = () => {
             <div className="flex flex-wrap items-center gap-x-2">
               <Link href="" className="text-xs">
                 Privacy Policy
-              </Link>
-              <Link href="" className="text-xs">
-                Price Disclaimer
-              </Link>
-              <Link href="" className="text-xs">
-                Responsible Disclosure
+              
               </Link>
               <Link href="" className="text-xs">
                 Cookie Policy
