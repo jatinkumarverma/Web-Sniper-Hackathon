@@ -51,7 +51,7 @@ export const picardData = [
   {
     id: 1,
     src: "/11.jpg",
-    title: "Bromo mountain, Indonesia",
+    title: "Taj Mahal",
     desc: "One of the highest and finest mountain in East Java Province",
   },
   {
