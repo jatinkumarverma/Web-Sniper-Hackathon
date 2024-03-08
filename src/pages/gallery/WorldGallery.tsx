@@ -58,9 +58,9 @@ const Home: NextPage = () => {
           <div className="text-gray-200 flex flex-col justify-center items-center text-xs">
             <div className="flex items-center gap-x-2">
               <CgPushChevronLeftR />
-              <p className="text-sm">vron</p>
+               
             </div>
-            <p>build your company now</p>
+             
           </div>
         </div>
       </div>
