@@ -54,7 +54,7 @@ const Header = () => {
                 dark ? "text-gray-700" : "text-gray-100"
               }`}
             >
-              Wondrify.
+              Wondrify
             </Link>
           </div>
           {/* navigation */}
