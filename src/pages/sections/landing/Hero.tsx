@@ -10,7 +10,7 @@ const Hero = () => {
     <div className="flex flex-row justify-between items-center h-[90%]">
       {/* social */}
       <div className="hidden xs:flex xs:flex-col xs:px-5 lg:px-8">
-        <a href="https://github.com/" className="w-5 py-2">
+        <a href="https://github.com/jatinkumarverma/Web-Sniper-Hackathon" className="w-5 py-2">
           <FaGithub color="#f1f5f9" size={22} />
         </a>
         <a href="https://www.instagram.com/" className="w-5 py-2">
