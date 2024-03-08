@@ -18,7 +18,7 @@ const Darkheader = () => {
               href="/"
               className={`hidden lg:inline text-gray-700 text-lg sm:text-xl lg:text-[1.375rem] font-bold tracking-wide`}
             >
-              Travel
+              Wondrify.
             </Link>
           </div>
 

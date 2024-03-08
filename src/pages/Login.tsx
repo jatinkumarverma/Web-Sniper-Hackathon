@@ -55,7 +55,7 @@ export default function Login() {
               className="flex flex-col"
             >
               <h1 className="text-4xl font-bold text-slate-700 ">
-                Welcome back, Renka
+                Welcome back!
               </h1>
               <p className="text-slate-500 my-2">
                 Good to have you back! Please enter your details

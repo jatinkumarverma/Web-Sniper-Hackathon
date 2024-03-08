@@ -28,11 +28,13 @@ const Hero = () => {
         <div className="mt-6">
           <Link
             href="/Start"
-            className="border text-slate-100 px-6 py-2 text-lg rounded-full backdrop-blur-sm lg:px-8 lg:py-[12px] lg:hover:px-9 lg:hover:py-[16px] md:hover:px-8 md:hover:py-[12px]  transition-all duration-300"
+            className="border text-slate-100 px-6 py-2  text-lg rounded-full backdrop-blur-sm lg:px-8 lg:py-[12px] lg:hover:px-9 lg:hover:py-[16px] md:hover:px-8 md:hover:py-[12px]  transition-all duration-300"
           >
             Get started
           </Link>
-        </div>
+        </div> 
+
+
       </div>
       {/* scroll */}
       <div className="hidden xs:flex flex-col items-center px-5 group lg:px-8">
