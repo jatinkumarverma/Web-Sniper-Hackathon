@@ -18,7 +18,7 @@ const Footer = () => {
           <div className="flex flex-wrap justify-between items-center min-h-[5rem] px-4 lg:px-16">
             <div className="">
               <Link href="" className="text-xs">
-                &#169; By Jatin | Rohit | Vansh (2024 - 2025) 
+                &#169; By Jatin | Rohit | Vansh (2024) 
               </Link>
             </div>
             <div className="flex flex-wrap items-center gap-x-2">
