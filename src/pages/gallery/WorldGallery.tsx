@@ -7,7 +7,7 @@ import { CgPushChevronLeftR } from "react-icons/cg";
 import Link from "next/link";
 
 const Home: NextPage = () => {
-  const [query, setQuery] = useState("Sri lanka");
+  const [query, setQuery] = useState("Kashmir");
 
   function handleInputChange(event: ChangeEvent<HTMLInputElement>) {
     setQuery(event.target.value);
