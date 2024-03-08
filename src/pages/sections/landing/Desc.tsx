@@ -52,7 +52,7 @@ const Desc = () => {
                 <span className="hidden lg:inline">
                 
                   <span className="hidden 2xl:inline">
-                    search bar provides autocomplete suggestions based on popular destinations, past searches, and trending locations
+                    Search bar provides autocomplete suggestions based on popular destinations, past searches, and trending locations.
                   </span>
                 </span>
               </p>
