@@ -27,9 +27,9 @@ const Desc = () => {
                
                 <span className="hidden lg:inline">
                 Wondrify is a comprehensive travel platform designed to offer users a seamless experience.{" "}
-                  <span className="hidden 2xl:inline">
+                  {/* <span className="hidden 2xl:inline">
             
-                  </span>
+                  </span> */}
                 </span>
               </p>
             </div>
@@ -39,9 +39,9 @@ const Desc = () => {
                     {" "}
                 <span className="hidden lg:inline">
                 Us
-                  <span className="hidden 2xl:inline">
-                  ers can refine their search results using filters such as travel dates, budget, activities, and accommodation preferences to find options tailored to their needs.
-                  </span>
+                  {/* <span className="hidden 2xl:inline"> */}
+                  ers can refine their search results using filters such as travel dates, budget, activities, and accommodation preferences.
+                  {/* </span> */}
                 </span>
               </p>
             </div>
@@ -51,9 +51,9 @@ const Desc = () => {
               
                 <span className="hidden lg:inline">
                 
-                  <span className="hidden 2xl:inline">
+                  {/* <span className="hidden 2xl:inline"> */}
                     Search bar provides autocomplete suggestions based on popular destinations, past searches, and trending locations.
-                  </span>
+                  {/* </span> */}
                 </span>
               </p>
             </div>
