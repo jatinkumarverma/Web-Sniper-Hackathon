@@ -53,3 +53,35 @@ export async function fetchPhotoData(id: number) {
 
   return response.data;
 }
+
+interface Place {
+  name: string;
+  type: string;
+  // Add other necessary properties based on the actual structure of your places
+}
+
+interface ApiResponse {
+  data: {
+    data: Place[];
+  };
+}
+
+export const getPlaceData = async (lat: number, long: number, type: string): Promise<Place[]> => {
+  try {
+    const response = await axios.get<ApiResponse>('https://travel-advisor.p.rapidapi.com/attractions/list-by-latlng', {
+      params: {
+        latitude: lat,
+        longitude: long,
+      },
+      headers: {
+        'X-RapidAPI-Key': '1d12c71cffmshed656ab315c199ap156e8cjsn5d438ae12387',
+        'X-RapidAPI-Host': 'travel-advisor.p.rapidapi.com',
+      },
+    });
+
+    return response.data.data.data;
+  } catch (error) {
+    console.error(error);
+    throw error;
+  }
+};
